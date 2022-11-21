@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css"> 
+<title>PROJECT NATALIIA</title>
+</head>
+<body>
+<style>
+ body{background-color: khaki;}
+ h1{margin-left: 18cm;}
+ p{text-align: center;}
+    </style>
+<h1> CATALOG </h1>
+<p> PRODUCTS </p>
+<h2 style="text-align: center; color: blue;">CATEGORY</h2>
+<h3> FILTERS </h3>
+
+</body>
+</html>
